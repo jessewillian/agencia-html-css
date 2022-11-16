@@ -1,4 +1,10 @@
 .nav-logo {
-    border: 1px solid #000;
-    flex: 30%;
+    font-family: 'Smokum', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: #180F4A;
+    letter-spacing: 4px;
+    cursor: default;
+    text-shadow: 2px 4px 10px #000;
+    font-style: italic;
 }
