@@ -1,0 +1,10 @@
+.nav-button {
+    font-size: 20px;
+    color: #180F4A;
+    padding: 20px 16px;
+}
+
+.nav-button:hover {
+    color: #FF2978;
+    border-top: 5px solid #180F4A;
+}
