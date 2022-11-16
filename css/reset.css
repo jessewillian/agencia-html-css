@@ -87,6 +87,8 @@ video {
     vertical-align: baseline;
     box-sizing: border-box;
     text-decoration: none;
+    font-family: 'Sono', sans-serif;
+    font-weight: 400;
 }
 
 /* HTML5 display-role reset for older browsers */
