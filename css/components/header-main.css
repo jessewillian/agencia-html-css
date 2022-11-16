@@ -1,0 +1,17 @@
+.header-main {
+    display: flex;
+    width: 100%;
+    padding-top: 100px;
+    align-items: center;
+}
+
+.header-main .head-line {
+    flex: 40%;
+    margin-left: 10%;
+}
+
+.header-main .bg-img {
+    flex: 40%;
+    margin-right: 10%;
+    text-align: center;
+}
