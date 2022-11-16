@@ -1,0 +1,22 @@
+.head-line .header-tspace {
+    margin-top: 10px;
+}
+
+.head-line .header-agencia {
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.head-line .header-text {
+    margin-bottom: 25px;
+}
+
+.head-line .nav-button.-lcolor {
+    background-color: #FF2978;
+    display: inline-flex;
+    margin: 0;
+}
+
+.head-line .nav-button.-lcolor:hover {
+    background-color: #180F4A;
+}
