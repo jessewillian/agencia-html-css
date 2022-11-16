@@ -2,9 +2,25 @@
     font-size: 20px;
     color: #180F4A;
     padding: 20px 16px;
+    font-weight: bold;
 }
 
 .nav-button:hover {
     color: #FF2978;
     border-top: 5px solid #180F4A;
+}
+
+.nav-button.-lcolor {
+    background-color: #180F4A;
+    color: #FFF;
+    padding: 15px 25px;
+    align-self: center;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.nav-button.-lcolor:hover {
+    background-color: #FF2978;
 }
