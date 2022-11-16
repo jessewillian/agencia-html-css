@@ -1,0 +1,19 @@
+.section-card {
+    width: 30%;
+    border: 1px solid #FF2978;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.section-card .simg {
+    margin-top: 20px;
+}
+
+.section-card .title-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section-card .text-card {
+    margin-bottom: 20px;
+}
