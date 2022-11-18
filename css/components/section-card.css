@@ -3,10 +3,28 @@
     border: 1px solid #FF2978;
     text-align: center;
     border-radius: 10px;
+    cursor: pointer;
+}
+
+.section-card:hover {
+    background-color: #FF2978;
+}
+
+.section-card:hover .content-card {
+    display: none;
+}
+
+.section-card:hover .content-ocult {
+    display: block;
+    padding-top: 50px;
 }
 
 .section-card .simg {
     margin-top: 20px;
+}
+
+.section-card:hover .simg {
+    display: none;
 }
 
 .section-card .title-card {
@@ -16,4 +34,8 @@
 
 .section-card .text-card {
     margin-bottom: 20px;
+}
+
+.section-card .content-ocult {
+    display: none;
 }
