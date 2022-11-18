@@ -1,0 +1,9 @@
+.imgfixed-whats {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+}
+
+.imgfixed-whats .img-whats {
+    height: 150px;
+}
