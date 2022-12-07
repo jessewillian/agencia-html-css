@@ -16,3 +16,9 @@
 .section-main .section-card {
     margin-top: 6%;
 }
+
+@media screen and (max-width: 850px) {
+    .section-main .section-card {
+        width: 100%;
+    }
+}

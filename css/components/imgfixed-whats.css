@@ -7,3 +7,9 @@
 .imgfixed-whats .img-whats {
     height: 150px;
 }
+
+@media screen and (max-width: 1100px) {
+    .imgfixed-whats {
+        display: none;
+    }
+}
